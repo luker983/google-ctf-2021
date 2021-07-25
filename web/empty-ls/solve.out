@@ -1,0 +1,13 @@
+2021/07/18 21:51:43 About to listen on :443
+2021/07/18 21:51:55 Got request from 34.77.5.6:41711
+2021/07/18 21:51:55 Client authenticated as admin
+2021/07/18 21:51:55 Done sending payload
+2021/07/18 21:51:55 Sending stop signal to server
+2021/07/18 21:51:55 Serving on :443 is over: http: Server closed
+2021/07/18 21:51:55 About to listen on :80
+2021/07/18 21:51:55 Starting proxy on :443
+2021/07/18 21:51:56 Got request from 34.77.5.6:41713
+2021/07/18 21:51:56 Bad path: /loaded-<pre style="word-wrap: break-word; white-space: pre-wrap;">Hello, admin. The flag is: CTF{m0_ambient_auth_m0_pr0blems} .\n</pre>
+2021/07/18 21:51:56 Serving on :80 is over: http: Server closed
+
+Flag: CTF{m0_ambient_auth_m0_pr0blems}
